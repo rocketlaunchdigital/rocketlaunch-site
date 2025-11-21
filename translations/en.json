@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "about": "About Us",
+    "contact": "Contact",
+    "talkToUs": "Talk to Us"
+  },
+  "hero": {
+    "headline": "AI is just the beginning, we are the result.",
+    "subheadline": "AI Agents and Automations that transform operational efficiency into revenue.",
+    "cta": "Transform your results with us"
+  },
+  "companies": {
+    "title": "Some of the technologies we use"
+  },
+  "features": {
+    "title": "More than a company.",
+    "titleItalic": "A strategic partnership.",
+    "subtitle": "Our approach combines cutting-edge technology and business vision to create solutions that really work and scale in your B2B environment."
+  },
+  "analysis": {
+    "title": "Operational Intelligence",
+    "titleItalic": "in Real Time",
+    "subtitle": "Get detailed information about marketing performance and campaign metrics with our advanced analytics tools."
+  },
+  "langSupport": {
+    "solutionsIA": "AI Solutions",
+    "localServer": "AI Models on local server",
+    "cloud": "AI Models in Cloud",
+    "ragAgents": "RAG Agents",
+    "dataAnalysis": "Data analysis",
+    "legacyIntegration": "Integration with legacy systems",
+    "realtime": "Real-time operations",
+    "contentGeneration": "AI content generation"
+  },
+  "integration": {
+    "title": "Integration and",
+    "titleItalic": "Automation",
+    "subtitle": "Complete AI and automation solutions to transform your operational processes",
+    "automationIA": "AI Automation",
+    "automationIADesc": "We automate your legacy and modern systems, integrating and optimizing all processes",
+    "development": "Development",
+    "developmentDesc": "We develop and control all integration with our own engineering",
+    "automationFlow": "Automation Flow",
+    "automationFlowDesc": "We map and implement intelligent automations that increase operational efficiency",
+    "trigger": "Trigger",
+    "prompts": "Prompts",
+    "sendEmail": "Send Email"
+  },
+  "founders": {
+    "title": "Leadership with Authority",
+    "titleItalic": "and Performance",
+    "subtitle": "Rocket Launch Digital is led by experts with decades of practical experience, professors at the country's largest technology schools and members of the Brazilian Artificial Intelligence Association.",
+    "connectLinkedIn": "Connect on LinkedIn"
+  },
+  "cta": {
+    "title": "Ready to transform your business?",
+    "subtitle": "Contact us and discover how we can help your company achieve extraordinary results.",
+    "button": "Get Started"
+  }
+}
+

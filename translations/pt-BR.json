@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "solutions": "Soluções",
+    "about": "Sobre Nós",
+    "contact": "Contato",
+    "talkToUs": "Fale Conosco"
+  },
+  "hero": {
+    "headline": "Somos o “Foguete 🚀” que levará sua Empresa à lua no faturamento",
+    "subheadline": "Agentes de IA e Automações que transformam eficiência operacional em faturamento.",
+    "cta": "Transforme seus resultados com a gente"
+  },
+  "companies": {
+    "title": "Algumas das tecnologias que utilizamos"
+  },
+  "features": {
+    "title": "Mais que uma empresa.",
+    "titleItalic": "Uma parceria estratégica.",
+    "subtitle": "Nossa abordagem une tecnologia de ponta e visão de negócios para criar soluções que realmente funcionam e escalam no seu ambiente B2B e B2C."
+  },
+  "analysis": {
+    "title": "Inteligência Operacional",
+    "titleItalic": "em Tempo Real",
+    "subtitle": "Obtenha informações detalhadas sobre o desempenho de marketing e as métricas de campanha com nossas ferramentas avançadas de análise."
+  },
+  "langSupport": {
+    "solutionsIA": "Soluções IA",
+    "localServer": "Modelos IA em servidor local",
+    "cloud": "Modelos IA em Cloud",
+    "ragAgents": "Agentes RAG",
+    "dataAnalysis": "Análise de dados",
+    "legacyIntegration": "Integração com sistemas legado",
+    "realtime": "Operações em tempo real",
+    "contentGeneration": "Geração de conteúdo com IA"
+  },
+  "integration": {
+    "title": "Integração e",
+    "titleItalic": "Automação",
+    "subtitle": "Soluções completas de IA e automação para transformar seus processos operacionais",
+    "automationIA": "Automação IA",
+    "automationIADesc": "Automatizamos seus sistemas legados e modernos, integrando e otimizando todos os processos",
+    "development": "Desenvolvimento",
+    "developmentDesc": "Desenvolvemos e controlamos toda integração com engenharia própria",
+    "automationFlow": "Fluxo de Automação",
+    "automationFlowDesc": "Mapeamos e implementamos automações inteligentes que elevam a eficiência operacional",
+    "trigger": "Trigger",
+    "prompts": "Prompts",
+    "sendEmail": "Enviar Email"
+  },
+  "founders": {
+    "title": "Liderança com Autoridade",
+    "titleItalic": "e Performance",
+    "subtitle": "A Rocket Launch Digital é liderada por especialistas com décadas de experiência prática, professores nas maiores escolas de tecnologia do país e membros da Associação Brasileira de Inteligência Artificial.",
+    "connectLinkedIn": "Conectar no LinkedIn"
+  },
+  "cta": {
+    "title": "Pronto para transformar seu negócio?",
+    "subtitle": "Entre em contato conosco e descubra como podemos ajudar sua empresa a alcançar resultados extraordinários.",
+    "button": "Começar Agora"
+  }
+}
+
